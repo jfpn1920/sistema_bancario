@@ -7,7 +7,7 @@ Este proyecto consiste en el desarrollo de un sistema bancario básico en Python
 
 El sistema implementa validaciones para garantizar que las operaciones sean seguras, evitando depósitos con montos inválidos o retiros que superen el saldo disponible. De esta manera, se recrea la lógica básica de funcionamiento de una entidad financiera, aplicando principios fundamentales de la Programación Orientada a Objetos (POO).
 
-Además, el proyecto está estructurado de forma clara y modular, lo que facilita su comprensión, mantenimiento y posible escalabilidad hacia versiones más avanzadas como transferencias entre cuentas, historial de movimientos o almacenamiento de datos en archivos externos.
+Además, el proyecto está estructurado de forma clara y modular, lo que facilita su comprensión, mantenimiento y posible escalabilidad hacia versiones más avanzadas como transferencias entre cuentas, historial de movimientos o almacenamiento.
 
 #
 ### 🧑‍💻 Lenguaje de programacion
